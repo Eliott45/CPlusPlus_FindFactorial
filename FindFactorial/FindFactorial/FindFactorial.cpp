@@ -13,6 +13,8 @@ long long factorial(int n) {
 
 int main()
 {
+    system("title Find factorial");
+
     int num;
     cout << "Write a number:";
     cin >> num;
